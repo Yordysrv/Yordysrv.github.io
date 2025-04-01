@@ -1,0 +1,22 @@
+body,html{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 75vw;
+    display:flex;
+    justify-content:flex-end;
+    align-items: center;
+    background: url(imagen/imagen2.jpg)  center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.contenedor{
+    text-align: center;
+    padding: 20px;
+    color: rgb(9, 28, 232);
+    background-color: rgb(6, 241, 9);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px orangered;
+   
+}
